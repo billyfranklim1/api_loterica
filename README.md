@@ -1,15 +1,9 @@
 
-## About Laravel
+## API QUINA
 
+/quina/{chave?}/{concurso?}
 
-## Contributing
+## SENA
 
-
-## Code of Conduct
-
-
-## Security Vulnerabilities
-
-
-## License
+/sena/{chave?}/{concurso?}
 
