@@ -3,7 +3,7 @@
 
 /quina/{chave?}/{concurso?}
 
-## SENA
+## API SENA
 
 /sena/{chave?}/{concurso?}
 
